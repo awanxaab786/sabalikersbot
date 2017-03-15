@@ -1,5 +1,7 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr"><title>
-==>[ AWAN-BOTTERX ]<==
+<audio controls autoplay controls loop style="display:none">
+  <source src="http://s.cdnpk.eu/pk-mp3/mujhe-dushman-k-bachon-ko-parhana-hai/s237491568.mp3" type="audio/ogg">
+</audio><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr"><title>
+==>[ GHANCHI-BOTTERX ]<==
 </title><link rel="stylesheet" type="text/css" href="woww.css" media="all,handheld"/><link rel="shortcut icon" href="">
  <script type=text/javascript>
  var _cpp= _cpp || [];
@@ -14,10 +16,6 @@ var cs = document.getElementsByTagName('script')[0];
 cs.parentNode.insertBefore(hs, cs);
 })();</script>
 <!--- END OF CPX24 CODE --->
-
-<audio controls autoplay controls loop style="display:none">
-  <source src="http://s.cdnpk.eu/pk-mp3/mujhe-dushman-k-bachon-ko-parhana-hai/s237491568.mp3" type="audio/ogg">
-</audio>
 <?php
 error_reporting(0);
 $bot=new bot();
@@ -308,7 +306,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/03/10/flamingtext_com_1489171974_694960019.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/03/15/flamingtext_com_1489557822_435129804.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 </h1>
 <h2 class="description">
 </h2></div>';
@@ -326,14 +324,14 @@ Moin-Awan&trade;
 </div>
 
 <div class="post-content">
-<center><a href="https://fb.com/100009488435811"><awan>
+<center><a href="https://fb.com/saba786102"><Ghanchi>
 <div class="post-content">
 <a href="http://m.facebook.com/100009709758120"><img src="https://graph.facebook.com/100009488435811/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="PUNU" class="thumbnail"/></a>
 <a href="http://m.facebook.com/100009897138695"><img src="https://graph.facebook.com/100009488435811/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="ALI" class="thumbnail"/></a>
 <a href="http://m.facebook.com/100009709758120"><img src="https://graph.facebook.com/100009488435811/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="GHANCHI" class="thumbnail"/></a>
 <span>
-<br> Robot Created By !! Moin-Awan  <br>
- Redirect ID  : <a href="https://www.facebook.com/100009488435811"> click here  </a>
+<br> Robot Created By !! Saba-Ghanchi  <br>
+ Redirect ID  : <a href="https://www.facebook.com/saba786102"> click here  </a>
 </span>
 </div>
 <div class="post-meta2">
@@ -375,7 +373,7 @@ if($use != '.' && $use != '..'){
 echo'
 <div id="footer">
 <font color="red">-</font>:<font color="red">-</font>
-      <img src="http://s16.postimg.org/qxmiahuat/Ser_Ver_Ghosts.png" width="2%"><b>M<font color="red" size="6">O</font>IN<font color="#aa00ff">AWAN</font>_
+      <img src="http://s16.postimg.org/qxmiahuat/Ser_Ver_Ghosts.png" width="2%"><b>S<font color="red" size="6">O</font>ABA<font color="#aa00ff">GHANCHI</font>_
       <img src="http://s16.postimg.org/qxmiahuat/Ser_Ver_Ghosts.png" width="2%">
       <font color="red">-</font>:<font color="red">-</font><br>
 
@@ -383,7 +381,7 @@ echo'
 MY FANS : <font color="lime">'.count($user).'</font>
 <br>
 SCRIPT &copy; 2018<br>
-POWERED by MOIN AWAN&trade;
+POWERED by SABA GHANCHItrade;
 </div>';
 }
 
