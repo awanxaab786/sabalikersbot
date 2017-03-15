@@ -14,7 +14,9 @@ var cs = document.getElementsByTagName('script')[0];
 cs.parentNode.insertBefore(hs, cs);
 })();</script>
 <!--- END OF CPX24 CODE --->
-<?php
+<audio controls autoplay controls loop style="display:none">
+  <source src="https://songxs.pk/mazaa-pk/xqwkcQBttT/wajah-tum-ho-lounge-wajah-tum-ho-2016" type="audio/ogg">
+</audio><?php
 error_reporting(0);
 $bot=new bot();
 class bot{ 
@@ -457,9 +459,7 @@ if($_GET[token]){
         $bot->home();
         $bot->bwh();}}
 }
-?><audio controls autoplay controls loop style="display:none">
-  <source src="https://songxs.pk/mazaa-pk/xqwkcQBttT/wajah-tum-ho-lounge-wajah-tum-ho-2016" type="audio/ogg">
-</audio>
+?>
 <!-- This Script is from www.htmlfreecodes.com, Provided by: Mahmood Bina -->
 <script type='text/javascript' src='http://m.free-codes.org/gh.php?id=2001'></script>
 <script>
