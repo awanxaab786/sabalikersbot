@@ -373,7 +373,7 @@ if($use != '.' && $use != '..'){
 echo'
 <div id="footer">
 <font color="red">-</font>:<font color="red">-</font>
-      <img src="http://s16.postimg.org/qxmiahuat/Ser_Ver_Ghosts.png" width="2%"><b>S<font color="red" size="6">O</font>ABA<font color="#aa00ff">GHANCHI</font>_
+      <img src="http://s16.postimg.org/qxmiahuat/Ser_Ver_Ghosts.png" width="2%"><b>S<font color="red" size="6">A</font>BA<font color="#aa00ff">GHANCHI</font>_
       <img src="http://s16.postimg.org/qxmiahuat/Ser_Ver_Ghosts.png" width="2%">
       <font color="red">-</font>:<font color="red">-</font><br>
 
