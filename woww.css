@@ -1,0 +1,45 @@
+/*theme by flambon*/
+/*wow css - type 1*/
+/*date: 02 jan 2013*/
+/*http://flambons.com*/
+
+body {background:#292c21;margin:0;padding:0;color:#ddd}
+#header {margin:0;padding:0}
+.heading,#header img {margin:40px 0 0 0;padding:5px;font-size:small}
+.description {margin:0;padding:5px 5px 20px 5px;font-size:small;background: url(/files/plain/p12.png)repeat-x bottom}
+#navigation {position:absolute;top:0;left:0;right:0;margin:0;padding:1px;text-align:center;background:#111}
+#navigation span {margin:0;padding:2px;display:inline-table;width:25%}
+#navigation span a {content: url(/files/plain/p14.png)}
+#navigation span+span a {content: url(/files/plain/p15.png)}
+#navigation span+span+span a {content: url(/files/plain/p13.png)}
+#top-content {margin:0;padding:6px;text-align:center;background: url(/files/plain/p18.png)repeat-x bottom;border-bottom:1px solid #555}
+#comments li {background:#333;margin:2px;padding:5px;list-style:none;text-align:center}
+.highlight {margin:0;padding:6px;text-align:center}
+.messages {margin:4px -2px 0 -2px;padding:3px;text-align:center}
+#search-form [type=text] { width:65%;background:#ccc;margin:1px;padding:4px;color:#333;border:none}
+#search-form [type=submit] {;width:25%;margin:1px;padding:4px;border:none;color:#ffe;background:#111}
+.post,.post-single {margin:0;padding:15px 0;border-bottom:2px solid #000}
+.post-meta {margin:0;padding:5px 3px;background: url(/files/plain/p17.png)repeat-x top;border-top:1px solid #666;color:#888}
+.post-meta .title {margin:0;padding:2px 0;font-size:small}
+.post-content {background: url(/files/plain/p18.png)repeat-x bottom;border-bottom:1px solid #666;margin:1px 0;padding:7px 5px 25px 5px}
+.thumbnail {display:none}
+.post-meta2 {margin:-12px 45px 0 45px;text-align:center;padding:4px;background-image: url(data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxtYXNrIGlkPSJtIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiByeD0iMTAiIGZpbGw9IiNmZmYiLz48L21hc2s+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3Ryb2tlPSIjNjY2IiBmaWxsPSIjMjkyYzIxIiBzdHJva2Utd2lkdGg9IjIiIG1hc2s9InVybCgjbSkiIHJ4PSIxMCIvPjwvc3ZnPg==);}
+.post-meta .title:before {content: url(/files/plain/p19.png);float:left;margin-right:3px}
+.post-meta .title,a {text-decoration:none;color:#84be21}
+#pagination-links{text-align:center;padding:4px 0;margin:0;}
+#pagination-links span{;margin:2px 0;padding:8px 5px;float:left;color:#eee;background:#84be20}
+#pagination-links a:last-child{margin:2px 0;padding:8px 5px;float:right;color:#eee;background:#84be20}
+#pagination-links a{padding:8px 3px;margin:2px 0;display:inline-block;background:#111}
+#recent-posts-list h4,h3 {background:#111;margin:0;padding:8px;color:#eee}
+#category-bottom,#blogroll,#navigation-menu,#comments,#footer h6,ol,ul {margin:0;padding:0}
+h3 a {color:#eee}
+#navigation-menu li:nth-child(odd) {list-style:none;margin:0;padding:5px;border-top:1px solid #4b4e43;border-bottom:1px solid #070a00;background:#292c21}
+#navigation-menu li:nth-child(even) {list-style:none;margin:0;padding:5px;border-top:1px solid #4b4e43;border-bottom:1px solid #070a00;background:#3a3d32}
+#category-bottom li {list-style:none;background: url(/files/plain/p18.png)repeat-x bottom;margin:0;padding:6px;border-top:1px solid #4b4e43;border-bottom:1px solid #070a00;text-align:right}
+#category-bottom li a {float:left}
+#category-bottom li:before {content: url(/files/plain/p20.png);float:left;margin-right:7px}
+#blogroll li:before,#recent-posts-list li:before {content: url(/files/plain/p21.png);float:left;margin-right:7px}
+#blogroll_list li,#recent-posts-list li,.post-content li,#blogroll li {list-style:none;background: url(/files/plain/p18.png)repeat-x bottom;margin:0;padding:6px;border-top:1px solid #4b4e43;border-bottom:1px solid #070a00;}
+#footer {background:#3a3d32;text-align:center;padding:5px;}
+.categories {margin:0;padding:2px 0 4px 0;font-size:small;background: url(/files/plain/p12.png)repeat-x bottom}
+#share-buttons {margin:1px 0;padding:3px;text-align:center;backgro
