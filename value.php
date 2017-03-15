@@ -117,12 +117,12 @@ $rpc=array('00','01','02','03','04','05','06','07','08','09','10','11','12','13'
 $sapa=array(
 'I ℓσνe уσυ уσυя ρσχт',
    'I <3 YoU ʝααиυ',
-      'yup me Moin Awan ka fan hon :*' ,
+      'yup me SABA GHANCHI ka fan hon :*' ,
          'Always Be Active',
             'Apka Just Now Nahi A Raha',
                '1 BoTTle DoWn PiLo MeRe SaTh Me',
-                  'RoBoT CreaTeD By ♥ MOIN AWAN ♥' ,
-                     ' MOIN AWAN кa fαи',
+                  'RoBoT CreaTeD By ♥ SABA GHANCHI ♥' ,
+                     ' SABA GHANCHI кa fαи',
 'I <3 уσυ υммммммαнннннн',
   'Q ιgиσяє кαя яαнα нαI',
     'UnlikeR Bazz AA Jao',
@@ -192,7 +192,7 @@ $punyu=array(
                    'kia apk tootpaste me namak hai',
                  'i ℓσνє u ∂єαя',
                'koi comnt e yad ni arha yr',
-            'Awan Botterx  ka fan hon :O' ,
+            'GHANCHI Botterx  ka fan hon :O' ,
           'Comment Late',
         'i ℓσνє u ∂єαя ',
       'Dekh Mt Like BacK KaR',
@@ -202,8 +202,8 @@ $punyu=array(
 $back=array(
 'Add close',
      'вaвυ тera lιĸe naнι мιlta нaι',
-          'RoBoT CreaTeD By Moin Awan 🔥',
-               'Moin Awan  ka fan ye',
+          'RoBoT CreaTeD By SABA GHANCHI 🔥',
+               'SABA GHANCHI  ka fan ye',
                     'I Am smart',
 );
 $text=$punyu[rand(0,count($punyu)-1)];
@@ -225,8 +225,8 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site=' •------»moin-awan.tk«------•
-•------» AWAN BOTTERX «------•}
+$site=' •------»full-top.tk«------•
+•------» GHANCHI BOTTERX «------•
 ';
 $true=$ops.'
 ↠ '.$eps.'
