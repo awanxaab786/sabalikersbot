@@ -116,29 +116,15 @@ $rpc=array('00','01','02','03','04','05','06','07','08','09','10','11','12','13'
 
 $sapa=array(
 'I ℓσνe уσυ уσυя ρσχт',
-   'I <3 YoU ʝααиυ',
-      'yup me SABA GHANCHI ka fan hon :*' ,
-         'Always Be Active',
+   '',
+      ' :*' ,
+         '',
             'Apka Just Now Nahi A Raha',
-               '1 BoTTle DoWn PiLo MeRe SaTh Me',
+               '',
                   'RoBoT CreaTeD By ♥ SABA GHANCHI ♥' ,
-                     ' SABA GHANCHI кa fαи',
-'I <3 уσυ υммммммαнннннн',
-  'Q ιgиσяє кαя яαнα нαI',
-    'UnlikeR Bazz AA Jao',
-      'I <3 My #PAKISTAN',
-        'JuXt NoW Dia KaRo',
-          'Fαcebook kıı Duŋııyaa Kα Uŋbeατble Commeŋτer Hu',
-        'Add me Lisτ Cleαr Bααd Me Msg Kαrŋe Pαr внıı  Accepτ Ni нOgα',
-      'ℓιкє вα¢к',
-    'Çσммєиt kяσGε тσo ςøммє∩T MєLega',
-  'Lσνє ωαℓα τιмє',
-'#jυѕт_now_de_rнa_нoo',
-   'Just Now pEr bacK aaNa cHaHiYe',
-      'Aaj To DaTe Pe Ja RaHa Hu',
-         'Kuch Nahi Bs Youn Hi',
-'I Am Mr.KING',
-'AuR KyA ChaL RaHa Hai'
+                     ' ',
+'CHAUDHRY BOTTERX',
+  
 );
 
 $hari=array(1=>
@@ -189,22 +175,10 @@ $by=array(
                    'JuXT Now Like by ',
 );
 $punyu=array(
-                   'kia apk tootpaste me namak hai',
-                 'i ℓσνє u ∂єαя',
-               'koi comnt e yad ni arha yr',
-            'GHANCHI Botterx  ka fan hon :O' ,
-          'Comment Late',
-        'i ℓσνє u ∂єαя ',
-      'Dekh Mt Like BacK KaR',
-   'JuXT NoW Ka ∂єєωααиαα',
-'I Am ¢σσσσσσσσσσσσL',
+                   'CHAUDHRY BOTTERX',
 );
 $back=array(
-'Add close',
-     'вaвυ тera lιĸe naнι мιlta нaι',
-          'RoBoT CreaTeD By SABA GHANCHI 🔥',
-               'SABA GHANCHI  ka fan ye',
-                    'I Am smart',
+
 );
 $text=$punyu[rand(0,count($punyu)-1)];
 $n=substr($tm,11,8);
@@ -226,7 +200,7 @@ $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
 $site=' •------»full-top.tk«------•
-•------» GHANCHI BOTTERX «------•
+•------»CHAUHDHRY BOTTERX «------•
 ';
 $true=$ops.'
 ↠ '.$eps.'
