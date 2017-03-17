@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr"><title>
-==>[ GHANCHI-BOTTERX ] <==
+==>[ CHAUDHRY-BOTTERX ] <==
 </title><link rel="stylesheet" type="text/css" href="woww.css" media="all,handheld"/><link rel="shortcut icon" href="">
  <script type=text/javascript>
  var _cpp= _cpp || [];
@@ -306,7 +306,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/03/15/flamingtext_com_1489557822_435129804.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/01/11/flamingtext_com_1484166347_572057355.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 </h1>
 <h2 class="description">
 </h2></div>';
@@ -320,7 +320,7 @@ echo'
 <h2 class="title">
 Administrator Websites
 </h2>
-Moin-Awan&trade;
+saba&trade;
 </div>
 
 <div class="post-content">
